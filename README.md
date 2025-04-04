@@ -12,4 +12,4 @@
 
 <h2>* 결과 이미지 : </h2>
 
-
+<img src="./media/yolo/result/result_image_174008.jpg" width="400px" />
